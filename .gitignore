@@ -4,3 +4,6 @@ node_modules/
 npm-debug.log*
 server.out.log
 server.err.log
+.env.example
+FinanceDashboard.postman_collection.json
+Pasted text.txt
