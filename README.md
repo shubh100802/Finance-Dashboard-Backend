@@ -4,7 +4,7 @@
 ![Tech](https://img.shields.io/badge/stack-MERN-blue)
 
 - GitHub Repo: [https://github.com/shubh100802/Finance-Dashboard-Backend.git](https://github.com/shubh100802/Finance-Dashboard-Backend.git)
-- Deployed API: [https://your-app-name.onrender.com](https://your-app-name.onrender.com)
+- Deployed API: [https://finance-dashboard-backend-yw1h.onrender.com](https://finance-dashboard-backend-yw1h.onrender.com)
 
 A secure, role-aware backend API for managing financial records and powering dashboard analytics. It enables teams to track income and expenses, enforce access policies, and expose clean reporting endpoints for frontend dashboards. The project focuses on practical backend architecture with authentication, RBAC, validation, and production-minded protections.
 
